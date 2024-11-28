@@ -13,6 +13,5 @@ p {
 }
 
 img {
-  display: flex;
-  width: 33;
+  display: block;
 }
