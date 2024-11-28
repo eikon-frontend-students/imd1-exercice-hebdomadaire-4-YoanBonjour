@@ -1,3 +1,17 @@
-body {
-  background: hotpink;
+div {
+  background: white;
+  font-family: "Roboto Mono";
+  padding: 12px;
+  background-color: #ffe4e4;
+  max-width: 500px;
+  color: #de1515;
+  border-radius: 5px;
+}
+
+p {
+  color: #de151560;
+}
+
+img {
+  display: block;
 }
